@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../OS/.idea/OS.iml" filepath="$PROJECT_DIR$/../OS/.idea/OS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/csvFiles.iml" filepath="$PROJECT_DIR$/.idea/csvFiles.iml" />
+      <module fileurl="file://Y:/myvenv/.idea/myvenv.iml" filepath="Y:/myvenv/.idea/myvenv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tests/.idea/tests.iml" filepath="$PROJECT_DIR$/../tests/.idea/tests.iml" />
+    </modules>
+  </component>
+</project>
